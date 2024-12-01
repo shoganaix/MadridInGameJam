@@ -1,4 +1,4 @@
-# MadridInGameJam
+# Madrid GameJAM
 > <p> Additional Note: This game has been developed for a game jam </p>
 
 # Index
